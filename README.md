@@ -49,7 +49,7 @@ A supporting dataset providing:
 
 Used to ensure accurate understanding and responsible interpretation of clinical variables.
 
-### **3.cleaned_diabetes_data.csv (cleaned dataset)**
+### **3. cleaned_diabetes_data.csv (cleaned dataset)**
 ---
 
 ## **Key Components**
