@@ -1,7 +1,4 @@
 # Diabetes-Readmission-Risk-Clinical-Data-Analytics
-Here is a polished, consulting‑ready, GitHub‑formatted **README** for your **SS3 Diabetes Readmission Analysis** project.  
-It is structured for professional audiences (McKinsey, BCG, Bain, data science recruiters) and written in clean Markdown.
-
 ---
 
 # **Diabetes Readmission Analysis – Clinical Data Exploration & Ethical Interpretation**  
