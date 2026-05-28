@@ -1,6 +1,3 @@
-# Diabetes-Readmission-Risk-Clinical-Data-Analytics
----
-
 # **Diabetes Readmission Analysis – Clinical Data Exploration & Ethical Interpretation**  
 *A visual analytics and responsible data‑science case study*
 
